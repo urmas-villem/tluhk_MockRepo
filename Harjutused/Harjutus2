@@ -142,14 +142,3 @@ hard-coded sأ¼steemilaiune sأ¤te
 * faili /etc/pam.d/common-session:
 session optional pam_umask.so umask=002
 * chfn --other='umask=002' kasutaja (muudab /etc/passwd)
-
-Viited
-http://permissions-calculator.org/
-http://kuutorvaja.eenet.ee/wiki/Faili%C3%B5igused
-http://kuutorvaja.eenet.ee/kasutamine/os/failioigused.html
-https://wiki.itcollege.ee/index.php/Linux/Unix_failiأµigused
-https://wiki.itcollege.ee/index.php/Setuid_/_Setgid
-https://wiki.itcollege.ee/index.php/Chmod
-https://wiki.itcollege.ee/index.php/Chown
-https://wiki.itcollege.ee/index.php/Umask
-http://askubuntu.com/questions/152001/how-can-i-get-octal-file-permissions-from-command-line
