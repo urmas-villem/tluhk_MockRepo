@@ -6,6 +6,8 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 
 ### Kursuse sisu mudel
 
+[Hindamismudel](https://github.com/urmas-villem/MockRepo/tree/main/Hindamismudel)
+
 [Loengud](https://github.com/urmas-villem/MockRepo/tree/main/Loengud)
 - [Loeng1](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Loeng1)
 - [Loeng2](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Loeng2)
@@ -15,10 +17,7 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 - [LoengutePDFid](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/LoengutePDFid)
 - [Videoloengud](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Video%20Loengud)
 
-[Hindamismudel](https://github.com/urmas-villem/MockRepo/tree/main/Hindamismudel)
-
 [Harjutused](https://github.com/urmas-villem/MockRepo/tree/main/Harjutused)
-
 
 ## Hinde saad kursusel nii:
 
