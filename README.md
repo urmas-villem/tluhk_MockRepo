@@ -16,6 +16,10 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 - [Loeng5](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Loeng5/loeng.md)
 - [LoengutePDFid](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/LoengutePDFid)
 - [Videoloengud](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Video%20Loengud)
+- - [Videoloeng1](https://github.com/urmas-villem/MockRepo/blob/main/Loengud/Video%20Loengud/Videoloeng%201)
+- - [Videoloeng2](https://github.com/urmas-villem/MockRepo/blob/main/Loengud/Video%20Loengud/Videoloeng%202)
+- - [Videoloeng3](https://github.com/urmas-villem/MockRepo/blob/main/Loengud/Video%20Loengud/Videoloeng%203)
+- - [Videoloeng4](https://github.com/urmas-villem/MockRepo/blob/main/Loengud/Video%20Loengud/Videoloeng%204)
 
 [Harjutused](https://github.com/urmas-villem/MockRepo/tree/main/Harjutused)
 - [Harjutus1](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus1)
