@@ -1,8 +1,9 @@
 Kataloogid on failid
-Esialgu on ehk natuke kummaline mأµelda kataloogidest kui erilistest failidest, milles on kirjas seal sisalduvate failide nimed, kuid tegelikult vastab see failisأ¼steemi tehnilisele korraldusele.
+Esialgu on ehk natuke kummaline mأµelda kataloogidest kui erilistest failidest, milles on kirjas seal sisalduvate failide nimed, 
+kuid tegelikult vastab see failisأ¼steemi tehnilisele korraldusele.
 Niisiis, kataloog on fail, kus on kirjas selles kataloogis sisalduvate failide ja nn alamkataloogide nimed ning viited failide tegelikele asukohtadele.
 
-أµigused:
+Õigused:
 * r(ead) - lugeda
 * w(rite) - kirjutada
 * e(x)ecute - kأ¤ivitada
@@ -20,9 +21,9 @@ d rwx   rwx   r-x   2   mart users   23 000   12 Mar   1998 kata
 - rwx   r-x   --x   1   mart users   30 000   12 Mar   1998 programm
 
 * (1) kataloogimأ¤rge: esimesed kolm rida on kataloogid, millele viitab mأ¤rge d (ingl. k. directory); 'karu' ja 'programm' on failid.
-* (2) faili omaniku أµigused faili suhtes
+* (2) faili omaniku õigused faili suhtes
 * (3) failiga samasse gruppi kuuluvate kasutajate أµigused faili suhtes
-* (4) sأ¼steemi teiste kasutajate أµigused faili suhtes
+* (4) süsteemi teiste kasutajate أµigused faili suhtes
 * (5) faili omanik
 * (6) faili grupp
 
@@ -47,14 +48,14 @@ Muutmine numbriliselt
 
 Kataloogi puhul kأ¤ivitamisأµigus tأ¤hendab أµigust sinna siseneda.
 
-----------		0000	ei mingeid أµiguseid
----------x		0001	kأ¤ivitamine
+----------		0000	ei mingeid õiguseid
+---------x		0001	käivitamine
 --------w-		0002	kirjutamine
-â€“-------wx		0003	kirjutamine ja kأ¤ivitamine
+â€“-------wx		0003	kirjutamine ja käivitamine
 â€“------r--		0004	lugemine
--------r-x		0005	lugemine ja kأ¤ivitamine
+-------r-x		0005	lugemine ja käivitamine
 -------rw-		0006	lugemine ja kirjutamine
--------rwx		0007	lugemine, kirjutamine ja kأ¤ivitamine
+-------rwx		0007	lugemine, kirjutamine ja käivitamine
 â€“--------t		1000  sticky
 â€“-----S---		2000	setgid
 â€“--S------		4000	setuid
@@ -74,42 +75,42 @@ chmod   read write execute    read write execute  read write  execute
 Eriأµigused
 ----------
 SetUID
-kasutajal peab olema ka kأ¤ivitusأµigus
+kasutajal peab olema ka käivitusõigus
 chmod u+xs fail
 
 chmod u+xs kataloog
 midagi ei juhtu
 
 nt:
-chmod 4700 fail - ka omanik saab kأ¤ivitada
+chmod 4700 fail - ka omanik saab käivitada
 
 SetGID
-grupil peab olema ka kأ¤ivitusأµigus
+grupil peab olema ka käivitusõgus
 chmod g+xs fail
 
 chmod g+xs kataloog
 sellises kataloogis olevad failid on kataloogiga samas grupis
 
 Sticky bit (kleepbitt)
-teistel (others) peab olema kأ¤ivitusأµigus
+teistel (others) peab olema käivitusõigus
 chmod o+xt
 
 * * *
 
-أµiguste vaatamine numbriliselt kأ¤sureal
+õiguste vaatamine numbriliselt käsureal
 stat -c '%A %a %n' *
-    %A ligipأ¤أ¤suأµigused inimloetavalt
-    %a ligipأ¤أ¤suأµigused kaheksandsأ¼steemis
+    %A ligipääsuõigused inimloetavalt
+    %a ligipääsuõigused kaheksandsüsteemis
     %n failinimi
 vt man stat
 
 umask
 -----
-Vaikimisi loodavate kataloogide, failide أµiguste mأ¤أ¤ramine.
-umask mأ¤أ¤rab, mis أµiguseid uuel failil, kataloogil olla ei saa.
+Vaikimisi loodavate kataloogide, failide õiguste määramine.
+umask määrab, mis õiguseid uuel failil, kataloogil olla ei saa.
 
 hetkel kehtiva vaatamine: umask
-ajutiselt mأ¤أ¤ramine: umask 022
+ajutiselt määramine: umask 022
 
 umaskâ€™i alusel أµiguste arvutamine
 
