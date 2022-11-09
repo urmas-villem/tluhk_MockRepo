@@ -1,4 +1,5 @@
-# Tähtis kursus
+# Tähtis kursus 
+(terve asi on loodud ainult mock andmetena ja kogu sisu on kopeeritud avalikest allikatest ning kasutatakse ainult mock data eesmärgil)
 ## Kursuse selgitus:
 
 See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõpilane peaks seda lugema kindlasti.
