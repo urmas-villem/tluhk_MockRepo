@@ -4,6 +4,10 @@
 
 See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõpilane peaks seda lugema kindlasti.
 
+### kursuse sisu mudel
+
+[Loengud](https://github.com/urmas-villem/MockRepo/tree/main/Loengud)
+
 ## Hinde saad kursusel nii:
 
 * „A” - suurepärane 91-100%
