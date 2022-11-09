@@ -18,6 +18,10 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 - [Videoloengud](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Video%20Loengud)
 
 [Harjutused](https://github.com/urmas-villem/MockRepo/tree/main/Harjutused)
+- [Harjutus1](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus1)
+- [Harjutus2](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus2)
+- [Harjutus3](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus3)
+- [Harjutus4](https://github.com/urmas-villem/MockRepo/blob/main/Harjutused/Harjutus4)
 
 ## Hinde saad kursusel nii:
 
