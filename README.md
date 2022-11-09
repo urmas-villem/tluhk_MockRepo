@@ -4,9 +4,21 @@
 
 See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõpilane peaks seda lugema kindlasti.
 
-### kursuse sisu mudel
+### Kursuse sisu mudel
 
 [Loengud](https://github.com/urmas-villem/MockRepo/tree/main/Loengud)
+- [Loeng1](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Loeng1)
+- [Loeng2](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Loeng2)
+- [Loeng3](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Loeng3)
+- [Loeng4](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Loeng4)
+- [Loeng5](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Loeng5)
+- [LoengutePDFid](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/LoengutePDFid)
+- [Videoloengud](https://github.com/urmas-villem/MockRepo/tree/main/Loengud/Video%20Loengud)
+[Hindamismudel]
+- [Hindamismudel](https://github.com/urmas-villem/MockRepo/tree/main/Hindamismudel)
+[Harjutused]
+- [Harjutused](https://github.com/urmas-villem/MockRepo/tree/main/Harjutused)
+
 
 ## Hinde saad kursusel nii:
 
