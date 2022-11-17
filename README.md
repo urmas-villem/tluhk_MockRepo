@@ -7,6 +7,7 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 ### Kursuse sisu mudel
 
 [Hindamismudel](https://github.com/urmas-villem/MockRepo/tree/main/Hindamismudel)
+
 [Teemad](https://github.com/urmas-villem/tluhk_MockRepo/tree/main/Teemad)
 - [Teema1](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Teemad/Teema1.md)
 - [Teema2](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Teemad/Teema2.md)
