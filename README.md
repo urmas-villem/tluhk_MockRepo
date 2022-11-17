@@ -15,7 +15,7 @@ See tekst siin selgitab kursuse sisu ja on ka väga tähtis osa ning iga üliõp
 - [Loeng4](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Loengud/Loeng4/loeng.md)
 - [Loeng5](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Loengud/Loeng5/loeng.md)
 - [LoengutePDFid](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Loengud/LoengutePDFid)
-- [Videoloengud](https://github.com/urmas-villem/tluhk_MockRepo/tree/main/Loengud/Video%20Loengud)
+- [Videoloengud](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Loengud/Video%20Loengud)
 - - [Videoloeng1](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Loengud/Video%20Loengud/Videoloeng%201.md)
 - - [Videoloeng2](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Loengud/Video%20Loengud/Videoloeng%202.md)
 - - [Videoloeng3](https://github.com/urmas-villem/tluhk_MockRepo/blob/main/Loengud/Video%20Loengud/Videoloeng%203.md)
