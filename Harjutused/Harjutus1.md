@@ -46,7 +46,7 @@ Muutmine numbriliselt
 2 kirjutamisأµigus
 1 kأ¤ivitamisأµigus
 
-Kataloogi puhul kأ¤ivitamisأµigus tأ¤hendab أµigust sinna siseneda.
+Kataloogi puhul käivitamisõigus tähendab õigust sinna siseneda.
 
 ----------		0000	ei mingeid õiguseid
 ---------x		0001	käivitamine
@@ -72,7 +72,7 @@ chmod   read write execute    read write execute  read write  execute
    * 5 = 4 + 0 + 1
    * 5 = 4 + 0 + 1
 
-Eriأµigused
+Eriõigused
 ----------
 SetUID
 kasutajal peab olema ka käivitusõigus
@@ -112,15 +112,15 @@ umask määrab, mis õiguseid uuel failil, kataloogil olla ei saa.
 hetkel kehtiva vaatamine: umask
 ajutiselt määramine: umask 022
 
-umaskâ€™i alusel أµiguste arvutamine
+umaskâ€™i alusel õiguste arvutamine
 
 vaikimisi:
 kataloogid: 777
 failid: 666
 
-umask'i vأ¤أ¤rtus tuleb vaikimisi vأ¤أ¤rtusest lahutada
+umask'i väärtus tuleb vaikimisi väärtusest lahutada
 
-nأ¤iteks: umask 022
+näteks: umask 022
 kataloogid: 777 â€“ 022 = 755
 failid: 666 â€“ 022 = 644
 
@@ -136,9 +136,9 @@ kasutaja: ~/.profile
 
 vajadusel ka faili /etc/pam.d/common-session lisada rida:
 session optional pam_umask.so
-(libpam-modules peaks olema paigaldatud, vأµib erineda distrote lأµikes)
+(libpam-modules peaks olema paigaldatud, võib erineda distrote lõikes)
 
-hard-coded sأ¼steemilaiune sأ¤te
+hard-coded süsteemilaiune säte
 -------------------------------
 * faili /etc/pam.d/common-session:
 session optional pam_umask.so umask=002
